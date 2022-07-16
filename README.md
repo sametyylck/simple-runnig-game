@@ -1,4 +1,7 @@
 # simple-runnig-game
-asdasdasdasd
-![Animason](https://user-images.githubusercontent.com/62144964/179361642-01f9977f-f149-4e92-8b6b-33920c9113bb.PNG)
-asdasdasda
+Oyunumuz Unity üzerinden yapılmıştır.
+Örnek kodları paylaşılmıştır.
+Kullanılan metaryaller ücretsiz kaynaklardan alınmıştır.
+Üniversite araştır projesi için yapılmış oyundur.
+
+https://user-images.githubusercontent.com/62144964/179362112-61309eb4-ee33-4809-a626-fc920659b3e2.mp4
