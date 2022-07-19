@@ -8,3 +8,4 @@ Kullanılan metaryaller ücretsiz kaynaklardan alınmıştır.
 Üniversite araştır projesi dersi için yapılmış oyundur.
 <br>
 
+![Ekran Alıntısı](https://user-images.githubusercontent.com/62144964/179777304-361c0f62-700c-4044-b56d-a20c099bb487.PNG)
