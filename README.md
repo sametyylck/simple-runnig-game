@@ -9,3 +9,9 @@ Kullanılan metaryaller ücretsiz kaynaklardan alınmıştır.
 <br>
 
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/62144964/179777304-361c0f62-700c-4044-b56d-a20c099bb487.PNG)
+
+
+
+
+https://user-images.githubusercontent.com/62144964/180603184-f076dee6-6545-4bc1-8d30-2e482f59d869.mp4
+
